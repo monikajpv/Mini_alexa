@@ -13,4 +13,4 @@ Command Execution: Once the user's command is interpreted, the mini Alexa can pe
 
 Internet Connectivity: Mini Alexa requires an internet connection to access online resources, retrieve information and perform certain tasks such as fetching weather updates or playing online media.
 
-Tools Used:Jyputer Notebook
+# Tools Used: Jyputer Notebook
